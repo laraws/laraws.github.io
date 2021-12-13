@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: https://laraws.github.io/sitemap.xml
